@@ -20,8 +20,4 @@ export function Button({
       : "bg-slate-800 text-slate-50 hover:bg-slate-700"
 
   return (
-    <button className={${base} ${styles} ${className}} {...rest}>
-      {children}
-    </button>
-  )
-}
+    <button />)}
